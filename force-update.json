@@ -1,0 +1,6 @@
+{
+  "app.fakecrypto.portfolio": {
+    "version_less_than": "1.0",
+    "update": false
+  }
+}

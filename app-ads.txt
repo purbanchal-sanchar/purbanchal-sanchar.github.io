@@ -6,3 +6,6 @@ google.com, pub-5862204979217421, DIRECT, f08c47fec0942fa0
 
 #Yang
 google.com, pub-6346788335359022, DIRECT, f08c47fec0942fa0
+
+#Tej
+google.com, pub-1937403086432832, DIRECT, f08c47fec0942fa0

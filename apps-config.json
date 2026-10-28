@@ -1,0 +1,38 @@
+{
+  "tej.mircroscope.camera": {
+    "version_less_than": "2.8",
+    "update": true
+  },
+  "telescope.zoomhdcamera": {
+    "version_less_than": "2.4",
+    "update": true
+  },
+  "tej.converter.mp4tomp3audio": {
+    "version_less_than": "3.4",
+    "update": true
+  },
+  "flash.binoculars.camera": {
+    "version_less_than": "3.7",
+    "update": true
+  },
+  "reze.cutecalendar": {
+    "version_less_than": "1.3",
+    "update": true
+  },
+  "yangsing.shakeflashlight": {
+    "version_less_than": "2.5",
+    "update": true
+  },
+  "app.battery.health.percentage": {
+    "version_less_than": "1.6",
+    "update": true
+  },
+  "app.dynamic.island": {
+    "version_less_than": "1.1",
+    "update": true
+  },
+  "alee.snake2d.game": {
+    "version_less_than": "1.9",
+    "update": true
+  }
+}
